@@ -1,0 +1,6 @@
+c:\users\kaleb\documents\visual studio 2015\Projects\Not In C\Not In C\bin\Debug\Not In C.exe.config
+c:\users\kaleb\documents\visual studio 2015\Projects\Not In C\Not In C\bin\Debug\Not In C.exe
+c:\users\kaleb\documents\visual studio 2015\Projects\Not In C\Not In C\bin\Debug\Not In C.pdb
+c:\users\kaleb\documents\visual studio 2015\Projects\Not In C\Not In C\obj\Debug\Not In C.csprojResolveAssemblyReference.cache
+c:\users\kaleb\documents\visual studio 2015\Projects\Not In C\Not In C\obj\Debug\Not In C.exe
+c:\users\kaleb\documents\visual studio 2015\Projects\Not In C\Not In C\obj\Debug\Not In C.pdb
